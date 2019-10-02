@@ -3,7 +3,7 @@
 
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/biof509/fall2019/)
 
-test
+This is my copy of NB.
 
 # biof509 Fall 2019
 
